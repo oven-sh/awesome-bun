@@ -42,6 +42,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Extensions
 * [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime
+* [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 * [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Lets you use Next.js 12 with bun.
 * [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun
 
