@@ -41,6 +41,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 * [Bun on Railway - Starter](https://github.com/FarazPatankar/bun-on-railway)
 
 ## Extensions
+* [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime
 * [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Lets you use Next.js 12 with bun.
 * [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun
 
