@@ -8,7 +8,7 @@
 <h2 align='center'>Awesome Bun</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://github.com/Jarred-Sumner/bun'>Bun</a>
+A curated list of awesome things related to <a href='https://github.com/oven-sh/bun'>Bun</a>
 <br><br>
 
 <a href='https://github.com/sindresorhus/awesome'>
@@ -30,8 +30,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Essentials
 * [Website](https://bun.sh/)
-* [Docs](https://github.com/Jarred-Sumner/bun#Reference)
-* [Examples](https://github.com/Jarred-Sumner/bun/tree/main/examples)
+* [Docs](https://github.com/oven-sh/bun#reference)
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples)
 
 ## Articles
 * [Exploring Bun](https://jenil777007.hashnode.dev/lets-bun)
