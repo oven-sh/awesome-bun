@@ -24,6 +24,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Boilerplates](#boilerplates)
 - [Extensions](#extensions)
 - [Videos](#videos)
+- [Tools](#tools)
 - [Community](#community)
 - [Contributing](#contributing)
 - [License](#license)
@@ -60,6 +61,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 * [How to create and run Next.js App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=U4sX83dlZx8)
 * [How to create and run React App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=UrO2UhA8SQE)
 * [Bun server is FASTER than Node.js - HTTP Throughput](https://www.youtube.com/watch?v=887G_d1OvYA)
+
+## Tools
+* [bun.new](http://bun.new) - Instant Bun playground in browser
 
 ## Community
 * [Discord](https://bun.sh/discord)
