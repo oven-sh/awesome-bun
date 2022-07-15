@@ -42,6 +42,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Boilerplates
 * [Bun on Railway - Starter](https://github.com/FarazPatankar/bun-on-railway)
 * [Tryout Bun - JavaScript/TypeScript](https://github.com/kosalanuwan/vscode-remote-try-bun)
+* [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun)
 
 ## Extensions
 * [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime
