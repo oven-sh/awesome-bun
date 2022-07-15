@@ -51,6 +51,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 * [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Lets you use Next.js 12 with bun.
 * [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun
 * [bun-utilities](https://www.npmjs.com/package/bun-utilities) - Bindings for useful functions for bun
+* [hyperbun](https://github.com/Eckhardt-D/hyperbun) - HTTP routing library built on top of Bun's built in HTTP solution
 * [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
 * [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Automatically reload any imports.
 
