@@ -96,6 +96,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
 - [Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling with Bun.
 - [asdf-bun](https://github.com/cometkim/asdf-bun) - asdf version manager plugin for installing Bun.
+- [setup-bun](https://github.com/xHyroM/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun.
 
 ## Community
 
