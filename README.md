@@ -78,6 +78,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 - [svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
 - [kysely-bun-sqlite](https://www.npmjs.com/package/kysely-bun-sqlite) - Kysely with SQLite, running on Bun.
+- [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 
 ## Videos
 
