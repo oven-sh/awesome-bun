@@ -69,6 +69,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Tools
 - [bun.new](http://bun.new) - Instant Bun playground in browser.
+- [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
 
 ## Community
 - [Discord](https://bun.sh/discord)
