@@ -82,6 +82,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
 - [bun-readline](https://github.com/wobsoriano/bun-readline) - Reedline bindings for the Bun runtime.
+- [bunray](https://github.com/theoparis/bunray) - Simple bun bindings for raylib.
 
 ## Videos
 
