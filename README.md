@@ -81,6 +81,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [kysely-bun-sqlite](https://www.npmjs.com/package/kysely-bun-sqlite) - Kysely with SQLite, running on Bun.
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
+- [bun-readline](https://github.com/wobsoriano/bun-readline) - Reedline bindings for the Bun runtime.
 
 ## Videos
 
