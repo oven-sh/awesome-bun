@@ -57,6 +57,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
 - [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Automatically reload any imports.
+- [svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
 
 ## Videos
 
