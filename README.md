@@ -41,6 +41,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Exploring Bun](https://jenil777007.hashnode.dev/lets-bun)
 - [Scaffolding your bun project](https://codetea.com/scaffolding-your-bun-project-boilerplate/)
 - [Bun Tutorial – Getting Started Guide With Examples](https://codedamn.com/news/backend/bun-js-tutorial-2022)
+- [Create a react app with bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
 
 ## Boilerplates
 
