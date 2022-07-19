@@ -70,6 +70,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [hyperbun](https://github.com/Eckhardt-D/hyperbun) - HTTP routing library built on top of Bun's built in HTTP solution.
 - [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
 - [fastify-edge](https://github.com/galvez/fastify-edge) - An experimental lightweight worker version of Fastify.
+- [burm](https://github.com/William-McGonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun.
 
 ### Utilities
 
