@@ -51,6 +51,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [React Bun Template for Gitpod](https://github.com/Joshuafrankle/bun-react)
 - [React-Typescript template](https://github.com/anjiboss/react-ts-template-for-bun)
 - [Bun Lib Starter](https://github.com/wobsoriano/bun-lib-starter)
+- [tRPC + Bun](https://github.com/sachinraja/trpc-bun)
 
 ## Extensions
 
