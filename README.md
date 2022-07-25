@@ -42,6 +42,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Scaffolding your bun project](https://codetea.com/scaffolding-your-bun-project-boilerplate/)
 - [Bun Tutorial – Getting Started Guide With Examples](https://codedamn.com/news/backend/bun-js-tutorial-2022)
 - [Create a react app with bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
+- [Let's create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 
 ## Boilerplates
@@ -96,17 +97,20 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bunray](https://github.com/theoparis/bunray) - Simple bun bindings for raylib.
 
 ## Videos
+
 [EN] 🇬🇧
-  - [JavaScript just got way faster - Fireship](https://www.youtube.com/watch?v=FMhScnY0dME)
-  - [What is Bun](https://www.youtube.com/watch?v=Rp5yvwX7orE)
-  - [Install Bun JS In Windows - Faster JavaScript](https://www.youtube.com/watch?v=aNL3gXW0ZuM)
-  - [Install and Run Bun JS In Real Server](https://www.youtube.com/watch?v=lDGrDOGyOr0)
-  - [How to create and run Next.js App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=U4sX83dlZx8)
-  - [How to create and run React App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=UrO2UhA8SQE)
-  - [Bun server is FASTER than Node.js - HTTP Throughput](https://www.youtube.com/watch?v=887G_d1OvYA)
- 
+
+- [JavaScript just got way faster - Fireship](https://www.youtube.com/watch?v=FMhScnY0dME)
+- [What is Bun](https://www.youtube.com/watch?v=Rp5yvwX7orE)
+- [Install Bun JS In Windows - Faster JavaScript](https://www.youtube.com/watch?v=aNL3gXW0ZuM)
+- [Install and Run Bun JS In Real Server](https://www.youtube.com/watch?v=lDGrDOGyOr0)
+- [How to create and run Next.js App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=U4sX83dlZx8)
+- [How to create and run React App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=UrO2UhA8SQE)
+- [Bun server is FASTER than Node.js - HTTP Throughput](https://www.youtube.com/watch?v=887G_d1OvYA)
+
 [ES] 🇪🇸
-  - [Esta tecnología es mejor y más rápida que Node.js ¡DESCÚBRELA!](https://www.youtube.com/watch?v=WzcCVPoX2wQ)
+
+- [Esta tecnología es mejor y más rápida que Node.js ¡DESCÚBRELA!](https://www.youtube.com/watch?v=WzcCVPoX2wQ)
 
 ## Tools
 
