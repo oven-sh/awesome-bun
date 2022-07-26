@@ -70,6 +70,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Lets you use Next.js 12 with bun.
 - [Appetit](https://github.com/Glatek/bun-appetit) - Create universal web applications following the PRPL pattern, with web components.
 - [Colston.js](https://github.com/ajimae/colstonjs) - Fast, lightweight and zero dependency framework for bunjs 🚀.
+- [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
 
 ### Libraries
 
