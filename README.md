@@ -57,6 +57,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [remix-bun](https://github.com/jacob-ebey/remix-bun-testing)
 - [Bun Template for Gitpod](https://github.com/gitpod-io/bun-on-gitpod)
 - [Nixpacks Bun web server](https://github.com/railwayapp/nixpacks/tree/main/examples/node-bun-web-server)
+- [sveltekit-bun-template](https://github.com/TheOtterlord/sveltekit-bun-template)
 
 ## Extensions
 
