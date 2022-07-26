@@ -86,6 +86,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Automatically reload any imports.
 - [bun-wifi-name](https://github.com/wobsoriano/bun-wifi-name) - Get current wifi name in Bun.
 - [bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library based on bubbles via bun:ffi.
+- [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
 
 ### Adapters
 
