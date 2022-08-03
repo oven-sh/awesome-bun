@@ -90,6 +90,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-wifi-name](https://github.com/wobsoriano/bun-wifi-name) - Get current wifi name in Bun.
 - [bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library based on bubbles via bun:ffi.
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
+- [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 
 ### Adapters
 
