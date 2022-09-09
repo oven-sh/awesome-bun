@@ -65,7 +65,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ### Frameworks
 
 - [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime.
-- [Oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience! 
+- [Oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience!
 - [bun-bakery](https://github.com/Kapsonfire-DE/bun-bakery) - Bun-Bakery is a web framework for Bun. It uses a file based router in style like svelte-kit. No need to define routes during runtime.
 - [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [kingworld](https://github.com/SaltyAom/kingworld) - Fast, and friendly Bun web framework.
@@ -73,6 +73,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Appetit](https://github.com/Glatek/bun-appetit) - Create universal web applications following the PRPL pattern, with web components.
 - [Colston.js](https://github.com/ajimae/colstonjs) - Fast, lightweight and zero dependency framework for bunjs 🚀.
 - [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
+- [Bagel.js] (https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
 
 ### Libraries
 
