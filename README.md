@@ -96,6 +96,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
 - [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
+- [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 
 ### Adapters
 
