@@ -75,6 +75,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
 - [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
 - [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
+- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
 - [Pogo](https://github.com/sholladay/pogo) - Server framework for Deno
 
 ### Libraries
@@ -97,6 +98,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
 - [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
+- [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 
 ### Adapters
 
