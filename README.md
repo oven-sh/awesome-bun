@@ -75,7 +75,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
 - [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
 - [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
-- [Pogo](https://github.com/sholladay/pogo) - Server framework for Deno
+- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
 
 ### Libraries
 
@@ -98,7 +98,6 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
-- [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 
 ### Adapters
 
@@ -146,6 +145,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discord](https://bun.sh/discord)
 - [Bun tagged NPM packages](https://bun-modules.pages.dev/)
 - [Benchmarks](https://github.com/xHyroM/benchmarks)
+- [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 
 ## Contributing
 
