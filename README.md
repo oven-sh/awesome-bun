@@ -146,6 +146,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bun tagged NPM packages](https://bun-modules.pages.dev/)
 - [Benchmarks](https://github.com/xHyroM/benchmarks)
 - [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
+- [create-templates](https://github.com/bun-community/create-templates)
 
 ## Contributing
 
