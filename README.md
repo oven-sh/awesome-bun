@@ -87,6 +87,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [fastify-edge](https://github.com/galvez/fastify-edge) - An experimental lightweight worker version of Fastify.
 - [burm](https://github.com/William-McGonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun.
 - [Melonpan](https://github.com/DarthBenro008/melonpan) -⚡️A minimalistic and sweet router for blazing fast bun.
+- [bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
 
 ### Utilities
 
