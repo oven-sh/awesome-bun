@@ -80,6 +80,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
 - [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
 - [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
+- [BunSVR](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
 
 ### Libraries
 
@@ -151,6 +152,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discord](https://bun.sh/discord)
 - [Bun tagged NPM packages](https://bun-modules.pages.dev/)
 - [Benchmarks](https://github.com/xHyroM/benchmarks)
+- [Framework benchmarks](https://github.com/bunsvr/benchmark)
 - [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
 - [sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun)
 
