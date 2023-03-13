@@ -81,6 +81,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
 - [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
 - [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
+- [Buchta](https://buchtajs.com/) - Full-Stack Framework Powered by Bun.
 
 ### Libraries
 
