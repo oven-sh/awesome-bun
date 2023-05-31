@@ -92,6 +92,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [burm](https://github.com/William-McGonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun.
 - [Melonpan](https://github.com/DarthBenro008/melonpan) -⚡️A minimalistic and sweet router for blazing fast bun.
 - [bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
+- [fluxify](https://github.com/simylein/fluxify) - A neat little library powered by bun for building apis.
 
 ### Utilities
 
