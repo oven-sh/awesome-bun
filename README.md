@@ -64,35 +64,35 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-- [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime.
-- [Oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience!
-- [bun-bakery](https://github.com/Kapsonfire-DE/bun-bakery) - Bun-Bakery is a web framework for Bun. It uses a file based router in style like svelte-kit. No need to define routes during runtime.
-- [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-- [ElysiaJS](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework.
+- ![main](https://img.shields.io/github/last-commit/mattreid1/baojs/main) [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime.
+- ![master](https://img.shields.io/github/last-commit/ariesclark/oily.js/master) [Oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience!
+- ![main](https://img.shields.io/github/last-commit/Kapsonfire-DE/bun-bakery/main) [bun-bakery](https://github.com/Kapsonfire-DE/bun-bakery) - Bun-Bakery is a web framework for Bun. It uses a file based router in style like svelte-kit. No need to define routes during runtime.
+- ![main](https://img.shields.io/github/last-commit/honojs/hono/main) [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+- ![main](https://img.shields.io/github/last-commit/elysiajs/elysia/main) [ElysiaJS](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework.
 - [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Lets you use Next.js 12 with bun.
-- [Appetit](https://github.com/Glatek/bun-appetit) - Create universal web applications following the PRPL pattern, with web components.
-- [Colston.js](https://github.com/ajimae/colstonjs) - Fast, lightweight and zero dependency framework for bunjs 🚀.
-- [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
-- [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
-- [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
-- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
-- [Yoga Server](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
-- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
-- [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
-- [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
-- [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
-- [Buchta](https://buchtajs.com/) - Full-Stack Framework Powered by Bun.
+- ![master](https://img.shields.io/github/last-commit/Glatek/bun-appetit/master) [Appetit](https://github.com/Glatek/bun-appetit) - Create universal web applications following the PRPL pattern, with web components.
+- ![master](https://img.shields.io/github/last-commit/ajimae/colstonjs/master) [Colston.js](https://github.com/ajimae/colstonjs) - Fast, lightweight and zero dependency framework for bunjs 🚀.
+- ![master](https://img.shields.io/github/last-commit/sstur/nbit/master) [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
+- ![main](https://img.shields.io/github/last-commit/honojs/hono/main) [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
+- ![main](https://img.shields.io/github/last-commit/sp90/chopstick.ts/main) [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
+- ![main](https://img.shields.io/github/last-commit/facebookresearch/shumai/main) [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
+- ![main](https://img.shields.io/github/last-commit/dotansimha/graphql-yoga/main) [Yoga Server](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
+- ![main](https://img.shields.io/github/last-commit/urigo/graphql-mesh/master) [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
+- ![main](https://img.shields.io/github/last-commit/mia-z/buxt/main) [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
+- ![main](https://img.shields.io/github/last-commit/zarfjs/zarf/main) [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
+- ![main](https://img.shields.io/github/last-commit/bunsvr/core/main) [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
+- ![main](https://img.shields.io/github/last-commit/Fire-The-Fox/buchta/master) [Buchta](https://buchtajs.com/) - Full-Stack Framework Powered by Bun.
 
 ### Libraries
 
-- [hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
-- [hyperbun](https://github.com/Eckhardt-D/hyperbun) - HTTP routing library built on top of Bun's built in HTTP solution.
-- [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
-- [fastify-edge](https://github.com/galvez/fastify-edge) - An experimental lightweight worker version of Fastify.
-- [burm](https://github.com/William-McGonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun.
-- [Melonpan](https://github.com/DarthBenro008/melonpan) -⚡️A minimalistic and sweet router for blazing fast bun.
-- [bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
-- [fluxify](https://github.com/simylein/fluxify) - A neat little library powered by bun for building apis.
+- ![main](https://img.shields.io/github/last-commit/hattipjs/hattip/main) [hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
+- ![main](https://img.shields.io/github/last-commit/Eckhardt-D/hyperbun/main) [hyperbun](https://github.com/Eckhardt-D/hyperbun) - HTTP routing library built on top of Bun's built in HTTP solution.
+- ![main](https://img.shields.io/github/last-commit/wobsoriano/siopao/main) [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
+- ![main](https://img.shields.io/github/last-commit/galvez/fastify-edge/main) [fastify-edge](https://github.com/galvez/fastify-edge) - An experimental lightweight worker version of Fastify.
+- ![master](https://img.shields.io/github/last-commit/William-McGonagle/burm/master) [burm](https://github.com/William-McGonagle/burm) - A simple, fast, reliable Object Relationship Manager for Bun.
+- ![main](https://img.shields.io/github/last-commit/DarthBenro008/melonpan/main) [Melonpan](https://github.com/DarthBenro008/melonpan) -⚡️A minimalistic and sweet router for blazing fast bun.
+- ![main](https://img.shields.io/github/last-commit/lau1944/bunrest/main) [bunrest](https://github.com/lau1944/bunrest) - An express-like API for bun server
+- ![main](https://img.shields.io/github/last-commit/simylein/fluxify/main) [fluxify](https://github.com/simylein/fluxify) - A neat little library powered by bun for building apis.
 
 ### Utilities
 
