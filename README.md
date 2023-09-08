@@ -83,7 +83,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
 - [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
 - [Buchta](https://buchtajs.com/) - Full-Stack Framework Powered by Bun.
-- [feTS](https://the-guild.dev/openapi/fets) - Create and consume APIs with e2e type safety using JSON Schema, OpenAPI and TypeScript, and it can run [run on Bun](https://the-guild.dev/openapi/fets/server/integrations/bun), Cloudflare Workers, Deno, and any JS environment. 
+- [feTS](https://the-guild.dev/openapi/fets) - Create and consume APIs with e2e type safety using JSON Schema, OpenAPI and TypeScript, and it can [run on Bun](https://the-guild.dev/openapi/fets/server/integrations/bun), Cloudflare Workers, Deno, and any JS environment. 
 
 ### Libraries
 
