@@ -33,7 +33,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Essentials
 
 - [Website](https://bun.sh/)
-- [Docs](https://github.com/oven-sh/bun#reference)
+- [Docs](https://bun.sh/docs)
 - [Examples](https://github.com/oven-sh/bun/tree/main/examples)
 
 ## Articles
