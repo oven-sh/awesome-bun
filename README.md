@@ -131,6 +131,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [How to create and run Next.js App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=U4sX83dlZx8)
 - [How to create and run React App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=UrO2UhA8SQE)
 - [New JS runtimes Deno & Bun - Shawn Swyx Wang](https://www.youtube.com/watch?v=ORI29ot_Zck)
+- [Crm From Scratch With Bun and Typescript](https://www.youtube.com/watch?v=l4QjeBEkNLc) - Building CRM from scratch, without big frameworks. Just Bun, Typescript and Tailwind.
 
 [ES] 🇪🇸
 
