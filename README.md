@@ -61,6 +61,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [sveltekit-bun-template](https://github.com/TheOtterlord/sveltekit-bun-template)
 - [react-nostalgia-boilerplate](https://github.com/boilertowns/react-nostalgia-boilerplate)
 - [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker)
+- [Nx in Bun runtime](https://github.com/Jordan-Hall/nx-bun-template)
 
 ## Extensions
 
@@ -151,6 +152,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
 - [bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable. bkg is a CLI tool that can generate self-sufficient binaries from your Bun code for multiple platforms.
+- [@nx-bun/nx](https://www.npmjs.com/package/@nx-bun/nx) - Create bun applications and libraries with NX
 
 ## Community
 
