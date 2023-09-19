@@ -151,6 +151,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
 - [bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable. bkg is a CLI tool that can generate self-sufficient binaries from your Bun code for multiple platforms.
+- [dAppling Network](https://dappling.network) - Decentralized web hosting platform for static sites with zero configuration and autodetection for bun.
 
 ## Community
 
