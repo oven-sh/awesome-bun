@@ -61,6 +61,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [sveltekit-bun-template](https://github.com/TheOtterlord/sveltekit-bun-template)
 - [react-nostalgia-boilerplate](https://github.com/boilertowns/react-nostalgia-boilerplate)
 - [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker)
+- [Bun + GraphQL + Apollo Server](https://github.com/anurag-dhamala/bun-graphql-server)
 
 ## Extensions
 
