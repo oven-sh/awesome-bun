@@ -70,6 +70,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Stric](https://stricjs.netlify.app) - A Bun-first framework for building high performance and scalable web applications and APIs.
 - [Vixeny](https://github.com/mimiMonads/vixeny) - A fast, pure functional web framework for Bun and Deno.
 - [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+- [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
+- [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework. 
 - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
 - [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
 
