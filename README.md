@@ -66,6 +66,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
+- [Stric](https://stricjs.netlify.app) - A Bun-first framework for building high performance and scalable web applications and APIs.
 - [Bao.js](https://github.com/mattreid1/baojs) - 🥟 A fast, minimalist web framework for the Bun JavaScript runtime.
 - [Oily.js](https://github.com/ariesclark/oily.js) - A blazingly fast Bun.js filesystem router, with an unpleasantly smooth experience!
 - [bun-bakery](https://github.com/Kapsonfire-DE/bun-bakery) - Bun-Bakery is a web framework for Bun. It uses a file based router in style like svelte-kit. No need to define routes during runtime.
@@ -82,10 +83,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
 - [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
 - [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
-- [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun. 
 
 ### Libraries
 
+- [@stricjs/utils](https://github.com/bunsvr/utils) - A set of blazingly fast, general-purpose web utilities.
 - [hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
 - [hyperbun](https://github.com/Eckhardt-D/hyperbun) - HTTP routing library built on top of Bun's built in HTTP solution.
 - [siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
