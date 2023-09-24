@@ -45,6 +45,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Let's create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 - [Server-Side Rendering (SSR) With Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
+- [Bun.sh with React, Typescript, TailwindCSS and Storybook](https://linkb.hashnode.dev/bunsh-with-react-typescript-tailwindcss-and-storybook)
 
 ## Boilerplates
 
@@ -78,11 +79,11 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
 - [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
 - [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
-- [Yoga Server](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
-- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
+- [Yoga Server](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
 - [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
 - [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
-- [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun. 
+- [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
 
 ### Libraries
 
