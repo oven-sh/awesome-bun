@@ -110,6 +110,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
+- [bun-plugin-html](https://github.com/BjornTheProgrammer/bun-plugin-html) - A plugin for bun build which allows html entrypoints.
 
 ### Adapters
 
