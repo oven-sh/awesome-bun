@@ -78,14 +78,16 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Libraries
 
-- [fluxify](https://github.com/simylein/fluxify) - A neat little library powered by bun for building apis.
-- [bun-fs-router-plugin](https://github.com/m1212e/bun-fs-router-plugin) - Bundler plugin to enable filesystem based routing at build time
+- [Hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
+- [Siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
+- [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by bun for building apis.
 
 ### Utilities
 
 - [@stricjs/utils](https://github.com/bunsvr/utils) - A set of blazingly fast, general-purpose web utilities.
 - [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
 - [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
+- [bun-fs-router-plugin](https://github.com/m1212e/bun-fs-router-plugin) - Bundler plugin to enable filesystem based routing at build time
 - [bun-utilities](https://www.npmjs.com/package/bun-utilities) - Bindings for useful functions for bun.
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Automatically reload any imports.
 - [bun-html-live-reload](https://github.com/aabccd021/bun-html-live-reload) - Automatically reload html when Bun server hot reloads.
