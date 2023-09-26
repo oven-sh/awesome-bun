@@ -61,6 +61,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [sveltekit-bun-template](https://github.com/TheOtterlord/sveltekit-bun-template)
 - [react-nostalgia-boilerplate](https://github.com/boilertowns/react-nostalgia-boilerplate)
 - [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker)
+- [DBest Stack](https://github.com/itsyoboieltr/dbest-stack)
 
 ## Extensions
 
@@ -126,6 +127,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Tools
 
 - [bun.new](http://bun.new) - Instant Bun playground in browser.
+- [Bum](https://github.com/owenizedd/bum) - A fast Bun version manager written in Rust.
 - [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
 - [Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling with Bun.
 - [asdf-bun](https://github.com/cometkim/asdf-bun) - asdf version manager plugin for installing Bun.
