@@ -75,24 +75,24 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
 - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
-- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment. 
 
 ### Libraries
 
+- [@stricjs/utils](https://github.com/bunsvr/utils) - A set of blazingly fast, general-purpose web utilities.
 - [Hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
 - [Siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
-- [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by bun for building apis.
+- [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by Bun for building apis.
+- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
+- [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
 
 ### Utilities
 
-- [@stricjs/utils](https://github.com/bunsvr/utils) - A set of blazingly fast, general-purpose web utilities.
-- [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
-- [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
 - [bun-fs-router-plugin](https://github.com/m1212e/bun-fs-router-plugin) - Bundler plugin to enable filesystem based routing at build time
 - [bun-utilities](https://www.npmjs.com/package/bun-utilities) - Bindings for useful functions for bun.
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Automatically reload any imports.
 - [bun-html-live-reload](https://github.com/aabccd021/bun-html-live-reload) - Automatically reload html when Bun server hot reloads.
 - [bun-wifi-name](https://github.com/wobsoriano/bun-wifi-name) - Get current wifi name in Bun.
+- [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
 - [bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library based on bubbles via bun:ffi.
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
 - [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
@@ -106,7 +106,6 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [kysely-bun-sqlite](https://www.npmjs.com/package/kysely-bun-sqlite) - Kysely with SQLite, running on Bun.
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
-- [bun-readline](https://github.com/wobsoriano/bun-readline) - GNU-Readline kind library for the Bun runtime.
 
 ## Videos
 
@@ -145,8 +144,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discord](https://bun.sh/discord)
 - [Bun tagged NPM packages](https://bun-modules.pages.dev)
 - [Benchmarks](https://github.com/xHyroM/benchmarks)
-- [Framework benchmarks](https://github.com/bunsvr/benchmark) - Comparing Bun HTTP frameworks
-- [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP framework
+- [Framework benchmarks](https://github.com/bunsvr/benchmark) - Comparing Bun HTTP frameworks.
+- [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP frameworks.
 - [sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun)
 
 ## Contributing
