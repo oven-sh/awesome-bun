@@ -74,7 +74,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
-- [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
+- [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+- [nhttp](https://github.com/nhttp/nhttp) - A Simple web-framework for Deno and Friends.
+- [helene](https://github.com/leonardoventurini/helene) - Real-time Web Apps for Node.js and Bun
 
 ### Libraries
 
@@ -84,6 +86,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by Bun for building apis.
 - [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
 - [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
+
+### ORMs
+- [instant](https://github.com/instant-dev/instant) - Rails-inspired JavaScript ORM and Migrations for Postgres
 
 ### Utilities
 
@@ -99,6 +104,12 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
+- [bun-plugin-dts](https://github.com/wobsoriano/bun-plugin-dts) - A Bun plugin for generating dts files.
+- [bun-plugin-csv](https://github.com/wobsoriano/bun-plugin-csv) - A Bun plugin which converts .csv and .tsv files into JavaScript modules.
+- [bun-lightningcss](https://github.com/wobsoriano/bun-lightningcss) - Lightning CSS plugin for Bun with class composition support.
+- [bun-plugin-proto](https://github.com/wobsoriano/bun-plugin-proto) - Adds support for .proto imports in Bun.
+- [bun-plugin-swc](https://github.com/joshunrau/bun-plugin-swc) - A Bun plugin for transpiling TypeScript with SWC (Speedy Web Compiler).
+- [bun-auto-import](https://github.com/arstnei0/bun-auto-import) - Auto import support for Bun, powered by Unimport.
 
 ### Adapters
 
@@ -106,6 +117,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [kysely-bun-sqlite](https://www.npmjs.com/package/kysely-bun-sqlite) - Kysely with SQLite, running on Bun.
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
+- [kysely-bun-worker](https://www.npmjs.com/package/kysely-bun-worker) - Kysely dialect for `bun:sqlite`, run sql in worker
+- [bun-vercel](https://github.com/vercel-community/bun) - 🐰 Bun runtime for ▲ Vercel Serverless Functions
+- [elastic-tiny-client](https://github.com/samuelgja/elastic-tiny-client) - Zero dependency, fetch based tiny elasticsearch client.
 
 ## Videos
 
@@ -118,6 +132,11 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [How to create and run Next.js App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=U4sX83dlZx8)
 - [How to create and run React App on Bun JavaScript Runtime](https://www.youtube.com/watch?v=UrO2UhA8SQE)
 - [New JS runtimes Deno & Bun - Shawn Swyx Wang](https://www.youtube.com/watch?v=ORI29ot_Zck)
+- [Bun is disrupting JavaScript land - Fireship](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
+- [The Truth About Bun - Theo](https://www.youtube.com/watch?v=1xoy8Q5o8ws)
+- [Bun 1.0 Release | Prime Reacts - ThePrimeTime](https://www.youtube.com/watch?v=oY3XNJUrryI)
+- [Bun Crash Course | JavaScript Runtime, Bundler & Transpiler - Traversy Media](https://www.youtube.com/watch?v=U4JVw8K19uY)
+- [Bun Crash Course 2023 with HTMX example - Kaizen Codes](https://www.youtube.com/watch?v=zNE5H6nOeCI&pp=ygUDYnVu)
 
 [ES] 🇪🇸
 
@@ -138,6 +157,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
+- [proto](https://moonrepo.dev/proto) - Multi language version manager
+- [bkg](https://github.com/theseyan/bkg) - package bun apps into a single executable
+- [pmb](https://github.com/w-xuefeng/pmb) - 🌟 Process manager for bun
+- [ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 
 ## Community
 
