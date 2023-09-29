@@ -45,6 +45,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Let's create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 - [Server-Side Rendering (SSR) With Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
+- [Bun.sh with React, Typescript, TailwindCSS and Storybook](https://linkb.hashnode.dev/bunsh-with-react-typescript-tailwindcss-and-storybook)
 
 ## Boilerplates
 
@@ -71,10 +72,19 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Stric](https://stricjs.netlify.app) - A Bun-first framework for building high performance and scalable web applications and APIs.
 - [Vixeny](https://github.com/mimiMonads/vixeny) - A fast, pure functional web framework for Bun and Deno.
 - [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-- [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
-- [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
-- [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
-- [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
+- [ElysiaJS](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework.
+- [bun-framework-next](https://www.npmjs.com/package/bun-framework-next) - Lets you use Next.js 12 with bun.
+- [Appetit](https://github.com/Glatek/bun-appetit) - Create universal web applications following the PRPL pattern, with web components.
+- [Colston.js](https://github.com/ajimae/colstonjs) - Fast, lightweight and zero dependency framework for bunjs 🚀.
+- [nbit](https://github.com/sstur/nbit) - A nano-sized, zero-dependency, strongly-typed web framework for Bun.
+- [Bagel.js](https://github.com/kakengloh/bagel) - Tiny and expressive web framework for Bun, inspired by Express.
+- [Chopstick.ts](https://github.com/sp90/chopstick.ts) - 🥢 A Typescript first web framework running on Bun
+- [Shumai](https://github.com/facebookresearch/shumai) - Fast differentiable tensor framework for machine learning in Bun.
+- [Yoga Server](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+- [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
+- [buxt](https://github.com/mia-z/buxt) - Lightweight filesystem REST API router written for Bun.
+- [Zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first, Web API framework with full Typescript support.
+- [Stric](https://github.com/bunsvr) - Fast and lightweight web framework for Bun.
 
 ### Libraries
 
