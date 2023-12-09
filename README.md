@@ -74,6 +74,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
+- [NeutralinoJS](https://neutralino.js.org) - Build cross-platform desktop apps with the [Neutralino Bun Extension.](https://github.com/hschneider/neutralino-ext-bun)
 - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
 - [Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla/) A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. _No scripting required._
 
