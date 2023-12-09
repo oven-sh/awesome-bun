@@ -45,7 +45,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Let's create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 - [Server-Side Rendering (SSR) With Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
-- [Bun으로 코딩테스트 준비하기](https://100seolgi.click/dev-log/TypeScript%20%EB%9F%B0%ED%83%80%EC%9E%84%20Bun%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%BD%94%ED%85%8C)
+- [🇰🇷 Bun으로 코딩테스트 준비하기](https://100seolgi.click/dev-log/TypeScript%20%EB%9F%B0%ED%83%80%EC%9E%84%20Bun%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%BD%94%ED%85%8C)
 
 ## Boilerplates
 
