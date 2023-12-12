@@ -101,6 +101,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
 
+### Plugins
+
+- [bun-plugin-solid](https://github.com/DaniGuardiola/bun-plugin-solid) - A plugin to compile Solid.js with Bun.
+
 ### Adapters
 
 - [svelte-adapter-bun](https://github.com/catdadcode/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
