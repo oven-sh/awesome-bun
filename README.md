@@ -96,7 +96,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
 - [bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library based on bubbles via bun:ffi.
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
-- [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [Orama](https://github.com/oramasearch/orama) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
