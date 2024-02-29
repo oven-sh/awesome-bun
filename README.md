@@ -62,6 +62,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [react-nostalgia-boilerplate](https://github.com/boilertowns/react-nostalgia-boilerplate)
 - [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker)
 - [DBest Stack](https://github.com/itsyoboieltr/dbest-stack)
+- [Bun Turborepo Starter](https://github.com/jotyy/bun-turborepo-starter) - A Full-Stack starter template for a bun project using TurboRepo.
 
 ## Extensions
 
