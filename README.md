@@ -102,8 +102,6 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
 - [prerender-macro](https://github.com/aralroca/prerender-macro) - Bun plugin to prerender JSX components using a kind of macro
 
-
-
 ### Adapters
 
 - [svelte-adapter-bun](https://github.com/catdadcode/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
