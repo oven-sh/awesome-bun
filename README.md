@@ -49,7 +49,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Boilerplates
 
 - [Bun on Railway - Starter](https://github.com/FarazPatankar/bun-on-railway)
-- [Bun Quick-starter for VS Code Remote - Containers and GitHub Codespaces](https://github.com/alertbox/vscode-remote-try-bun)
+- [Bun on Dev Containers & GitHub Codespaces](https://github.com/alertbox/try-bun)
 - [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun)
 - [React Bun Template for Gitpod](https://github.com/Joshuafrankle/bun-react)
 - [React-Typescript template](https://github.com/anjiboss/react-ts-template-for-bun)
@@ -76,6 +76,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
 - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
+- [Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla/) A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. _No scripting required._
 
 ### Libraries
 
@@ -96,14 +97,14 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [serve-static-bun](https://www.npmjs.com/package/serve-static-bun) - Serve static files using Bun.serve or Bao.js.
 - [bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library based on bubbles via bun:ffi.
 - [blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄.
-- [Lyra](https://github.com/nearform/lyra) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [Orama](https://github.com/oramasearch/orama) - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [bnx](https://github.com/wobsoriano/bnx) - zx inspired shell for Bun/Node.
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
 
 ### Adapters
 
-- [svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
+- [svelte-adapter-bun](https://github.com/catdadcode/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
 - [kysely-bun-sqlite](https://www.npmjs.com/package/kysely-bun-sqlite) - Kysely with SQLite, running on Bun.
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
