@@ -46,6 +46,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 - [Server-Side Rendering (SSR) With Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
 
+## Courses & Books
+
+- [Bun Security Essentials](https://www.bunsecurity.dev)
+
 ## Boilerplates
 
 - [Bun on Railway - Starter](https://github.com/FarazPatankar/bun-on-railway)
