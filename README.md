@@ -75,6 +75,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Stric](https://stricjs.netlify.app) - A Bun-first framework for building high performance and scalable web applications and APIs.
 - [Vixeny](https://github.com/mimiMonads/vixeny) - A fast, pure functional web framework for Bun and Deno.
 - [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+- [Ree.js](https://github.com/rovelstars/reejs) - Say Goodbye to slow build times, and welcome faster and better DX & UX.
 - [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
@@ -84,6 +85,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ### Libraries
 
 - [@stricjs/utils](https://github.com/bunsvr/utils) - A set of blazingly fast, general-purpose web utilities.
+- [@reejs/imports](https://www.npmjs.com/package/@reejs/imports) - Adds URL Imports to Bun. Suggested to be used with Reejs framework.
 - [Hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
 - [Siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
 - [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by Bun for building apis.
