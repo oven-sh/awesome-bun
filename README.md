@@ -46,8 +46,13 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bun: A Complete Overhaul of the JavaScript Ecosystem](https://www.lunasec.io/docs/blog/bun-first-look/)
 - [Server-Side Rendering (SSR) With Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
 
+## Courses & Books
+
+- [Bun Security Essentials](https://www.bunsecurity.dev)
+
 ## Boilerplates
 
+- [Extro - open source browser extension starter kit](https://github.com/turbostarter/extro)
 - [Bun on Railway - Starter](https://github.com/FarazPatankar/bun-on-railway)
 - [Bun on Dev Containers & GitHub Codespaces](https://github.com/alertbox/try-bun)
 - [Create Bun Boilerplates](https://github.com/guocaoyi/create-bun)
@@ -74,8 +79,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
-- [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment. 
+- [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 - [Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla/) A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. _No scripting required._
+- [BunWork](https://github.com/happer64bit/bunwork) - Simple, Fast and Minimalist Backend Framework with No Pain
+- [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 
 ### Libraries
 
@@ -101,6 +108,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-aws-lambda](https://github.com/Jarred-Sumner/bun-aws-lambda) - Hacky attempt to get bun to run on AWS Lambda
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
 - [prerender-macro](https://github.com/aralroca/prerender-macro) - Bun plugin to prerender JSX components using a kind of macro
+- [type-explorer](https://github.com/triyanox/type-explorer) - Runtime type inspection and schema generation for JS/TS.
 
 ### Adapters
 
