@@ -74,9 +74,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ### Frameworks
 
 - [Elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework.
-- [Stric](https://stricjs.netlify.app) - A Bun-first framework for building high performance and scalable web applications and APIs.
-- [Vixeny](https://github.com/mimiMonads/vixeny) - A fast, pure functional web framework for Bun and Deno.
 - [Hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+- [Vixeny](https://github.com/mimiMonads/vixeny) - A fast, pure functional web framework for Bun and Deno.
 - [Grace](https://docs.gracejs.dev) - An innovative, type-safe and easy-to-use API framework.
 - [Primate](https://primatejs.com) - Expressive, minimal and extensible web framework.
 - [NBit](https://github.com/sstur/nbit) - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
