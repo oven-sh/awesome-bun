@@ -38,6 +38,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Articles
 
+- [Bun Tutorials](https://bunjs.pro)
 - [Exploring Bun](https://jenil777007.hashnode.dev/lets-bun)
 - [Scaffolding your bun project](https://codetea.com/scaffolding-your-bun-project-boilerplate/)
 - [Bun Tutorial – Getting Started Guide With Examples](https://codedamn.com/news/backend/bun-js-tutorial-2022)
@@ -135,6 +136,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Tools
 
+- [expressbun](https://www.npmjs.com/package/@expressbun/generator) - Express application generator for Bun
 - [bun.new](http://bun.new) - Instant Bun playground in browser.
 - [Bum](https://github.com/owenizedd/bum) - A fast Bun version manager written in Rust.
 - [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
