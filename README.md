@@ -136,7 +136,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Tools
 
-- [Bunup](https://github.com/arshad-yaseen/bunup) – ⚡️ Bundling so fast it feels illegal — powered by Bun, done in a blink.
+- [Bunup](https://github.com/arshad-yaseen/bunup) - A high-performance build tool for your libraries built with Bun.
 - [bun.new](http://bun.new) - Instant Bun playground in browser.
 - [Bum](https://github.com/owenizedd/bum) - A fast Bun version manager written in Rust.
 - [sublime-bun](https://github.com/alexkuz/sublime-bun) - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
