@@ -68,6 +68,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker)
 - [DBest Stack](https://github.com/itsyoboieltr/dbest-stack)
 - [🐵 Xmonkey Userscript: Bun + TypeScript Boilerplate](https://github.com/genzj/bun-ts-userscript-starter)
+- [bun-package-starter](https://github.com/nothingrandom/bun-package-starter) - A starter template for creating node packages using bun. 
 
 ## Extensions
 
