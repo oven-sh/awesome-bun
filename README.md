@@ -85,6 +85,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 - [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
 - [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
+- [Fasteejs](https://github.com/pouchlabs/fasteejs) — Blazing fast web application framework,for bun,node,deno and workers.
 
 ### Libraries
 
@@ -94,6 +95,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by Bun for building apis.
 - [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
 - [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
+- [pouchlite](https://github.com/pouchlabs/pouchlite) - Blazing fast js storage engine,local first.
 
 ### Utilities
 
