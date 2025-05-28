@@ -112,6 +112,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [prerender-macro](https://github.com/aralroca/prerender-macro) - Bun plugin to prerender JSX components using a kind of macro
 - [type-explorer](https://github.com/triyanox/type-explorer) - Runtime type inspection and schema generation for JS/TS.
 
+### Plugins
+
+- [bun-plugin-solid](https://github.com/DaniGuardiola/bun-plugin-solid) - A plugin to compile Solid.js with Bun.
+
 ### Adapters
 
 - [svelte-adapter-bun](https://github.com/catdadcode/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
