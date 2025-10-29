@@ -115,9 +115,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ### Adapters
 
 - [svelte-adapter-bun](https://github.com/catdadcode/svelte-adapter-bun) - Adapter for SvelteKit apps that generates a standalone Bun server.
-- [trpc-bun](https://www.npmjs.com/package/trpc-bun) trpc adapter that runs using bun serve supports SSE and websockets.
+- [trpc-bun](https://www.npmjs.com/package/trpc-bun) - tRPC adapter that runs using bun serve, supports SSE and WebSockets.
 - [kysely-bun-sqlite](https://www.npmjs.com/package/kysely-bun-sqlite) - Kysely with SQLite, running on Bun.
-- [kysely-bun-sql](https://www.npmjs.com/package/kysely-bun-sql) - Kysely with native Bun SQL (Postgresql).
+- [kysely-bun-sql](https://www.npmjs.com/package/kysely-bun-sql) - Kysely with native Bun SQL (PostgreSQL).
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
 
