@@ -32,8 +32,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Essentials
 
-- [Website](https://bun.sh/)
-- [Docs](https://bun.sh/docs)
+- [Website](https://bun.com/)
+- [Docs](https://bun.com/docs)
 - [Examples](https://github.com/oven-sh/bun/tree/main/examples)
 
 ## Articles
@@ -84,6 +84,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [BunWork](https://github.com/happer64bit/bunwork) - Simple, Fast and Minimalist Backend Framework with No Pain
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 - [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
+- [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
 
 ### Libraries
 
@@ -153,7 +154,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Community
 
-- [Discord](https://bun.sh/discord)
+- [Discord](https://bun.com/discord)
 - [Bun tagged NPM packages](https://bun-modules.pages.dev)
 - [Benchmarks](https://github.com/xHyroM/benchmarks)
 - [Framework benchmarks](https://github.com/bunsvr/benchmark) - Comparing Bun HTTP frameworks.
