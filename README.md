@@ -24,6 +24,11 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
 - [Extensions](#extensions)
+  - [Frameworks](#frameworks)
+  - [APIs](#apis)
+  - [Libraries](#libraries)
+  - [Utilities](#utilities)
+  - [Adapters](#adapters)
 - [Videos](#videos)
 - [Tools](#tools)
 - [Community](#community)
@@ -85,6 +90,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 - [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
 - [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
+
+### APIs
+
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology API with 108+ endpoints for horoscopes, birth charts, and compatibility.
 
 ### Libraries
 
