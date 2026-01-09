@@ -134,6 +134,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 [ES] 🇪🇸
 
 - [Esta tecnología es mejor y más rápida que Node.js ¡DESCÚBRELA!](https://www.youtube.com/watch?v=WzcCVPoX2wQ)
+- [Bun v1.0 - Primeras impresiones - en vivo](https://www.youtube.com/watch?v=30wyDKfa6nE)
 
 ## Tools
 
