@@ -1,6 +1,24 @@
+# Inspiration from
+# https://github.com/tcort/github-action-markdown-link-check#sample-workflow-with-scheduled-job
+
+name: Check Markdown links
+
+on:
+  push:
+    branches:
+    - master
+  schedule:
+  # Run everyday at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
+  - cron: "0 9 * * *"
+
 jobs:
-  md-dead-link-check:
-    runs-on: ubuntu-22.04
+  markdown-link-check:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: AlexanderDokuchaev/md-dead-link-check@v1.3.0
+    - uses: actions/checkout@v4
+    - uses: tcort/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        config-file: 'mlc_config.json'
+        folder-path: 'docs/markdown_files'
