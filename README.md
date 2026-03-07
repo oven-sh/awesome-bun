@@ -151,6 +151,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
 
+- [Wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini) via tmux sessions across machines, secured by Tailscale. Built with Bun HTTP + WebSocket server.
+
 ## Community
 
 - [Discord](https://bun.com/discord)
