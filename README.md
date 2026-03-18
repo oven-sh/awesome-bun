@@ -147,6 +147,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-discord-bot](https://github.com/MiraBellierr/bun-discord-bot) - Interaction Discord bot written in JS and TS using Bun runtime environment.
 - [bun-discord-bot(serverless)](https://github.com/xHyroM/bun-discord-bot) - Official serverless discord bot for bun discord server.
 - [bunbot](https://github.com/wobsoriano/bunbot) - Native cross-platform GUI automation for the Bun runtime. Supports Mac and Windows for now.
+- [bm2](https://github.com/bun-bm2/bm2) - A fast modern process manager built entirely on Bun, offering a lightweight, high-performance alternative to PM2 without relying on Node.js.
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
