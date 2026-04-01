@@ -68,6 +68,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker)
 - [DBest Stack](https://github.com/itsyoboieltr/dbest-stack)
 - [🐵 Xmonkey Userscript: Bun + TypeScript Boilerplate](https://github.com/genzj/bun-ts-userscript-starter)
+- [ShipKit](https://shipkit.davrapps.dev) - Full-stack SaaS boilerplate using Bun, Next.js 16, Elysia.js, shadcn/ui, Better Auth, Drizzle ORM, Polar.sh payments, and i18n.
 
 ## Extensions
 
@@ -150,6 +151,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
+- [DevTools](https://devtools.davrapps.dev) - Free browser-based developer utilities (JSON formatter, regex tester, JWT decoder, QR code generator, and more) built with Bun + Next.js. 100% client-side.
 
 ## Community
 
