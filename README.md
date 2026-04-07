@@ -150,6 +150,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Community
 
