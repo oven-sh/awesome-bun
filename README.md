@@ -97,6 +97,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Utilities
 
+- [BrainDB](https://github.com/beckfexx/BrainDB) - Local-first AI memory and multi-agent orchestrator built on Bun + SQLite. 110 REST endpoints, 51 MCP tools, hybrid search, knowledge graph, self-learning.
 - [bun-fs-router-plugin](https://github.com/m1212e/bun-fs-router-plugin) - Bundler plugin to enable filesystem based routing at build time
 - [bun-utilities](https://www.npmjs.com/package/bun-utilities) - Bindings for useful functions for bun.
 - [bun-livereload](https://github.com/jarred-sumner/bun-livereload) - Automatically reload any imports.
