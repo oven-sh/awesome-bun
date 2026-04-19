@@ -151,6 +151,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
 
+- [grugbot-server](https://github.com/grug-group420/grugbot-server) - AI-powered CLI assistant with zero dependencies, built with Bun.
+- [grug-cli](https://github.com/grug-group420/grug-cli) - Zero-dependency developer toolkit built with Bun.
 ## Community
 
 - [Discord](https://bun.com/discord)
