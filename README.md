@@ -96,7 +96,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
 
 - [rabbxws](https://github.com/rabbxdev/ws) - Zero-dep WebSocket for Node, Bun, Deno, Cloudflare Workers
-RFC 6455 compliant. Web Standard API. 9KB gzipped.
+RFC 6455 compliant.
 
 ### Utilities
 
