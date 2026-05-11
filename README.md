@@ -85,6 +85,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 - [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
 - [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
+- [Routup](https://github.com/routup/routup) - Runtime-agnostic HTTP routing framework with return-based handlers and tree-shakeable helpers.
 
 ### Libraries
 
