@@ -88,6 +88,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Libraries
 
+- [Sinwan](https://github.com/sinwanjs/sinwan) - A fast reactive UI library for JSX, fine-grained reactivity, SSR, and hydration.
 - [@stricjs/utils](https://github.com/bunsvr/utils) - A set of blazingly fast, general-purpose web utilities.
 - [Hattip](https://github.com/hattipjs/hattip) - Set of JavaScript packages for building HTTP server applications, with Bun support.
 - [Siopao](https://github.com/wobsoriano/siopao) - Minimal routing library. Based on Radix Tree.
