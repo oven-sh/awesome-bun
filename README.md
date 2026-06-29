@@ -26,6 +26,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Extensions](#extensions)
 - [Videos](#videos)
 - [Tools](#tools)
+- [Projects](#projects)
 - [Community](#community)
 - [Contributing](#contributing)
 - [License](#license)
@@ -159,6 +160,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Framework benchmarks](https://github.com/bunsvr/benchmark) - Comparing Bun HTTP frameworks.
 - [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) - Compare throughput benchmark from various Bun HTTP frameworks.
 - [sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun)
+
+## Projects
+
+- [Room TBA](https://room-tba.uplbtools.me) - Production campus map PWA built with Bun, Astro, and Svelte 5 with offline PGlite sync.
 
 ## Contributing
 
