@@ -111,6 +111,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [postgres-bun](https://github.com/lawrencecchen/postgres-bun) - fast postgres bindings for bun runtime (libpq ffi)
 - [prerender-macro](https://github.com/aralroca/prerender-macro) - Bun plugin to prerender JSX components using a kind of macro
 - [type-explorer](https://github.com/triyanox/type-explorer) - Runtime type inspection and schema generation for JS/TS.
+- [ArkEnv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime, with a first-class Bun plugin.
 
 ### Adapters
 
