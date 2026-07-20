@@ -83,7 +83,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla/) A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. _No scripting required._
 - [BunWork](https://github.com/happer64bit/bunwork) - Simple, Fast and Minimalist Backend Framework with No Pain
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
-- [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
+- [Mantou](https://github.com/kao-xiang/mantou) - A Fullstack React Framework with auto generated documentation.
 - [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
 
 ### Libraries
@@ -150,6 +150,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Discall](https://github.com/Discall-Development/Discall) - A async functional discord API wrapper written in bun.
 - [bun-doc](https://github.com/William-McGonagle/bun-doc) - A procedural documentation and website generator written in Bun.
 - [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
+- [Xquik](https://xquik.com) - X automation platform with a Bun-compatible SDK, REST API, MCP server and webhooks. Not affiliated with X Corp.
 
 ## Community
 
