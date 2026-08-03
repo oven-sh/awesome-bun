@@ -84,6 +84,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [BunWork](https://github.com/happer64bit/bunwork) - Simple, Fast and Minimalist Backend Framework with No Pain
 - [Brisa](https://github.com/brisa-build/brisa) A full-stack web framework with Server Actions and Web Components with JSX + signals
 - [Mantou]([link](https://github.com/kao-xiang/mantou)) - A Fullstack React Framework with auto generated documentation.
+- [nifra](https://github.com/nifrajs/nifra) - Full-stack TypeScript framework built for AI agents: typed server-to-client with zero codegen, SSR for React/Vue/Svelte/Solid/Preact, and docs served as a live MCP server.
 - [Blade](https://github.com/ronin-co/blade) — Build instant web apps with React.
 
 ### Libraries
