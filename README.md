@@ -119,6 +119,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [fable-bun](https://github.com/AngelMunoz/fable-bun) - Fable bindings for Bun.sh.
 - [duckdb](https://github.com/evanwashere/duckdb) - 🦆 fast duckdb bindings for bun runtime.
 
+### Applications
+
+- [FoxAuth](https://github.com/RedFox-Soft/OAuth-server.ts) - Source-available OAuth 2.1 and OpenID Connect authorization server built on Bun and Elysia.
+
 ## Videos
 
 [EN] 🇬🇧
