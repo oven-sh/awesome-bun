@@ -94,6 +94,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 - [Fluxify](https://github.com/simylein/fluxify) - A neat little library powered by Bun for building apis.
 - [GraphQL Mesh](https://github.com/urigo/graphql-mesh) - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
 - [bun-types](https://www.npmjs.com/package/bun-types) - Typescript with Bun.
+- [MonOrm](https://github.com/UniForgeStack/monorm) - Fast ORM with a Rust core and a schema in Prisma syntax, for PostgreSQL and SQLite. Runs on Bun, Node.js and Python.
 
 ### Utilities
 
